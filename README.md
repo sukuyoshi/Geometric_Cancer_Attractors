@@ -1,5 +1,7 @@
 # Geometric Attractor Steering in Non-Equilibrium Tumor Microenvironments
 
+Repository: https://github.com/sukuyoshi/Geometric_Cancer_Attractors
+
 Dissipative systems framework and operator-theoretic control for cancer differentiation therapy, pre-metastatic early warning, and immune checkpoint bifurcation.
 
 ## Overview
